@@ -11,8 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Gauge Your Garden" />
         <p className="description">
+          Welcome to the app for plant lovers! I created this app to help my reltives who're interested in gardening.
+          Here, you will be able to journal the data of your plant growth based on height which will be predicted for your future use.
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
