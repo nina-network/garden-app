@@ -15,6 +15,7 @@ export default function Home() {
         <p className="description">
           Welcome to the app for plant lovers! I created this app to help my reltives who're interested in gardening.
           Here, you will be able to journal the data of your plant growth based on height which will be predicted for your future use.
+          I am hoping to add two sections: One for plant information and the other for interacting with other gardeners.
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
