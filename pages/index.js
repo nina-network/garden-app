@@ -14,16 +14,16 @@ export default function Home() {
         <Header title="Gauge Your Garden" />
         <p className="description">
           Welcome to the app for plant lovers! 
-          
+          <br/>
           I created this app to help my relatives who're interested in gardening.
-          
+          <br/>
           Here, you will be able to journal the data of your plant growth based on height which will be predicted for your future use.
-          
+          <br/>
           This app will be mobile-friendly and include:
-          
-          Plant Information and Identification
-          Journaling and Prediction
-          Interaction with Other Users
+
+          <ul/>Plant Information and Identification
+          <ul/>Journaling and Prediction
+          <ul/>Interaction with Other Users
         </p>
       </main>
 
