@@ -22,9 +22,9 @@ export default function Home() {
           This app will be mobile-friendly and include:
 
           <ul>
-          <li/>Plant Information and Identification
-          <li/>Journaling and Prediction
-          <li/>Interaction with Other Users
+          <li>Plant Information and Identification</li>
+          <li>Journaling and Prediction</li>
+          <li>Interaction with Other Users</li>
           </ul>
         </p>
       </main>
