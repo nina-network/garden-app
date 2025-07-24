@@ -16,14 +16,16 @@ export default function Home() {
           Welcome to the app for plant lovers! 
           <br/>
           I created this app to help my relatives who're interested in gardening.
-          <br/>
+          <br/><br/>
           Here, you will be able to journal the data of your plant growth based on height which will be predicted for your future use.
-          <br/>
+          <br/><br/>
           This app will be mobile-friendly and include:
 
-          <ul/>Plant Information and Identification
-          <ul/>Journaling and Prediction
-          <ul/>Interaction with Other Users
+          <ul>
+          <li/>Plant Information and Identification
+          <li/>Journaling and Prediction
+          <li/>Interaction with Other Users
+          </ul>
         </p>
       </main>
 
