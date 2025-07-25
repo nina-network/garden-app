@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Gauge Your Garden</title>
-        <link rel="icon" href="/favicon_gyg.png" />
+        <link rel="icon" href="/favicon_gyg.png" sizes="192x192" href="/favicon-192x192.png" />
       </Head>
 
       <main>
