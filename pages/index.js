@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import { Button, Container } from 'react-bootstrap';
+
 
 export default function Home() {
   return (
@@ -24,6 +26,9 @@ export default function Home() {
             <li>Interaction with Other Users</li>
           </ul>
         </div>
+
+        <Button variant="primary">Click me</Button>
+
 
       </main>
 
